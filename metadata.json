@@ -1,0 +1,5 @@
+{
+  "name": "Art AI Gallery",
+  "description": "A sophisticated, responsive image gallery featuring category filtering, a polished lightbox with navigation, and AI-powered image insights using the Gemini API.",
+  "requestFramePermissions": []
+}
